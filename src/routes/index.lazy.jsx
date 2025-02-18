@@ -15,6 +15,9 @@ export const Route = createLazyFileRoute("/")({
 					<li>
 						<Link to="/past">Past Orders</Link>
 					</li>
+					<li>
+						<Link to="/contact">Contact</Link>
+					</li>
 				</ul>
 			</div>
 		);
